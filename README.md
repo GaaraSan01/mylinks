@@ -20,3 +20,7 @@ Meus links de redes sociais tudo em um só lugar.
 <p>
   Este mini projeto foi feito para facilitar a navegação de visitantes entre minhas redes sociais😄
 </p>
+
+<br/>
+
+_**Desenvolvido por &copy;Vinícius H.**_
