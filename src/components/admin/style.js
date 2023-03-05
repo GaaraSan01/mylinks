@@ -24,4 +24,12 @@ export const StyleAdmin = style.div`
     p{
         text-align: justify;
     }
+
+    @media(max-width: 400px){
+        padding: 15px 50px;
+        p{
+            text-align: justify;
+            font-size: 14px;
+        }
+    }
 `

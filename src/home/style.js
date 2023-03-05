@@ -12,9 +12,8 @@ export const Content = styled.div`
     background: transparent;
     margin: auto;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: grid;
+    grid-template-colunms: 200px 200px;
     justify-content: center;
     gap: 20px;
     padding: 15px;

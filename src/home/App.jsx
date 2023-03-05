@@ -47,7 +47,7 @@ function App() {
           <ComponentsLinks link={'https://web.facebook.com/profile.php?id=100065599075086'} name={'Facebook'} icon={<FaFacebook/>}/>
           <ComponentsLinks link={'https://www.linkedin.com/in/vin%C3%ADcius-henrique-machado-598435247'} name={'Linkedin'} icon={<FaLinkedin/>}/>
           <ComponentsLinks link={'https://github.com/GaaraSan01'} name={'Github'} icon={<FaGithub/>}/>
-          <ComponentsLinks link={'#'} name={'Portifólio'} icon={<FaReact/>}/>
+          <ComponentsLinks link={'https://myportifolio-ten.vercel.app/'} name={'Portifólio'} icon={<FaReact/>}/>
         </Content>
       </Home>
     </>
