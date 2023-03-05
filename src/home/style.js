@@ -8,12 +8,14 @@ export const Home = styled.section`
 
 export const Content = styled.div`
     height: 100vh;
-    max-width: 800px;
+    max-width: 500px;
+    min-width: 300px;
     background: transparent;
     margin: auto;
 
-    display: grid;
-    grid-template-colunms: 200px 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
     gap: 20px;
     padding: 15px;
