@@ -15,11 +15,9 @@ export const StyleLinks = styled.a`
     transition: .2s ease-in-out;
 
     :hover{
-        background: black;
-        border: 0.9px solid var(--verde);
-        color: var(--white);
-        transform: translate(-0.25rem,-0.25rem);
-        box-shadow: 0.25rem 0.25rem var(--white);
+        background: var(--white);
+        box-shadow: 0 0px 15px var(--white);
+        transform: translateX(.5px) scale(1.05);
     }
 
 `
